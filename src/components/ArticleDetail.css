@@ -1,0 +1,39 @@
+.article-detail {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: calc(100vw - 100px);
+  }
+  
+  .article-detail h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .article-detail-image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .article-author,
+  .article-published {
+    font-size: 1rem;
+    margin-bottom: 10px;
+  }
+  
+  .article-content {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  .article-link {
+    font-size: 1rem;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .article-link:hover {
+    text-decoration: underline;
+  }  

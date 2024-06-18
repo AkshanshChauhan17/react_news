@@ -1,0 +1,13 @@
+.category-filter {
+    margin-bottom: 20px;
+  }
+  
+  .category-filter label {
+    margin-right: 10px;
+    font-size: 1.2rem;
+  }
+  
+  .category-filter select {
+    padding: 5px;
+    font-size: 1rem;
+  }  
